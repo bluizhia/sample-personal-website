@@ -1,7 +1,7 @@
 # sample-personal-website
 a fresh sample website (this is my first official website)
 
-the original is to create a personal website of my own. i work mostly on data
+the original plan is to create a personal website of my own. i work mostly on data
 and i have no major background on web dev nor on html/css. but i actually tried
 learning html & css years ago for my friendster profile. but i wasn't sucessful.
 come 2009/2010, i tried learning it again for my tumblr profile
